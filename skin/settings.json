@@ -1,0 +1,16 @@
+{
+	"iso-code": "en_us",	
+	"font": "font.ttf",
+	"text-alignment": "center",
+	"text-margin": 16,
+	"color-guide": "#ffffff",
+	"color-inactive": "#838383",
+	"color-active": "#000000",
+	"color-favorite-inactive": "#0076fb",
+	"color-favorite-active": "#0004a9",
+	"main-menu-text-visibility": true,
+	"guide-button-text": "#a1a1a1",
+	"guide-button-text-visibility": true,
+	"empty-label": "Nothing to see here! Move along!",
+	"savestates-unsupported": "This core doesn't support savestates!"
+}
