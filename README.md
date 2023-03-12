@@ -5,6 +5,7 @@ Created this theme to sort of mimic the Switch OS.  I did put my own twist on it
 Click the link below to see all my themes.
 https://github.com/dhrandy/dhrandy-RG35XX-Themes
 
+![ezgif-3-ffa39e318c-2](https://user-images.githubusercontent.com/6290176/224575243-89e97e72-0a49-4c5c-b7a7-f6134fb712d6.gif)
 
 ## Installation - *This only works with Garlic OS
 *Only Works with Garlic OS 1.2.7
